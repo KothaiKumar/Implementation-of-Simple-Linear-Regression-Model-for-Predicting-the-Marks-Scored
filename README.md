@@ -1,24 +1,24 @@
-# Ex no 2 Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
+# Ex No:2    Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
 # DATE: 31-08-2023
 ## AIM:
-To write a program to predict the marks scored by a student using the simple linear regression model.
+  To write a program to predict the marks scored by a student using the simple linear regression model.
 
 ## Equipments Required:
-1. Hardware – PCs
-2. Anaconda – Python 3.7 Installation / Jupyter notebook
+  1. Hardware – PCs
+  2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. Import the standard Libraries.
+  1. Import the standard Libraries.
 
-2.Set variables for assigning dataset values.
+  2.Set variables for assigning dataset values.
 
-3.Import linear regression from sklearn.
+  3.Import linear regression from sklearn.
 
-4.Assign the points for representing in the graph.
+  4.Assign the points for representing in the graph.
 
-5.Predict the regression for marks by using the representation of the graph.
+  5.Predict the regression for marks by using the representation of the graph.
 
-6.Compare the graphs and hence we obtained the linear regression for the given datas.
+  6.Compare the graphs and hence we obtained the linear regression for the given datas.
 
 
 ## Program:
