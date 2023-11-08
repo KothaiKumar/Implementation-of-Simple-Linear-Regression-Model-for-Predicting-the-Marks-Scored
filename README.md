@@ -38,14 +38,14 @@ df=pd.read_csv('/student_scores.csv')
 df.head()
 df.tail()
 
-## segregating data to variables
+## Segregating data to variables
 
 X=df.iloc[:,:-1].values
 X
 Y=df.iloc[:,1].values
 Y
 
-## graph plotting for training data
+## Graph plotting for training data
 
 from sklearn.linear_model import LinearRegression
 regressor=LinearRegression()
